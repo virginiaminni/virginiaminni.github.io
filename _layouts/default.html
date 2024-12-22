@@ -19,10 +19,10 @@
 <body>
     <header>
         <nav>
-            <a href="/" class="nav-link site-title {% if page.url == '/' %}current{% endif %}">Virginia Minni</a>
-            <a href="/research" class="nav-link" onclick="location.href='/research';">Research</a>
-            <a href="/teaching" class="nav-link" onclick="location.href='/teaching';">Teaching</a>
-            <a href="/policy" class="nav-link" onclick="location.href='/policy';">Policy</a>
+             <a href="/" class="nav-link site-title {% if page.url == '/' %}current{% endif %}">Virginia Minni</a>
+            <a href="/research" class="nav-link {% if page.url == '/research/' %}current{% endif %}">Research</a>
+            <a href="/teaching" class="nav-link {% if page.url == '/teaching/' %}current{% endif %}">Teaching</a>
+            <a href="/policy" class="nav-link {% if page.url == '/policy/' %}current{% endif %}">Policy</a>
 
         </nav>
         
