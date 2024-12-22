@@ -1,0 +1,38 @@
+# Basic site settings
+title: "Virginia Minni" # The website's title
+description: "I am an Assistant Professor of Economics at the University of Chicago Booth School of Business. My research focuses on questions in labor, organizational, and development economics."
+email: "virginia.minni@chicagobooth.edu" # Your email address
+baseurl: "" # Keep this blank for local development
+url: "https://virginiaminni.github.io" 
+# Markdown configuration
+markdown: kramdown
+
+# Plugins (basic plugins for local use)
+plugins:
+  - jekyll-feed
+
+# Destination folder for generated files
+destination: ./_site
+
+# Directory for assets like CSS, images, JS
+assets_dir: assets
+
+# Navigation links (for reference, optional)
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "Research"
+    link: "/research/"
+  - name: "Teaching"
+    link: "/teaching/"
+  - name: "Policy"
+    link: "/policy/"
+
+
+# Optional defaults for posts or pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
