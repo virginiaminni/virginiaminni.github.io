@@ -150,6 +150,9 @@ body, nav, header, a {
     .profile-text {
         font-size: 1rem; /* Adjust text size for readability */
     }
+    .nav-link {
+        font-size: 14px; /* Smaller font size for phones */
+    }
 }
 
 /* Desktop layout: side-by-side alignment */
