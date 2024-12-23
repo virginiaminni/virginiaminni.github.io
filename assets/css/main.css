@@ -120,6 +120,9 @@ a {
     div > div {
         text-align: center !important; /* Center-align the text */
     }
+    .nav-link {
+        font-size: 14px !important; /* Set a smaller font size for phones */
+    }
 }
 
 /* Add explicit styles for larger screens (default layout) */
