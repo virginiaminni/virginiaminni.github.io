@@ -120,8 +120,12 @@ a {
     div > div {
         text-align: center !important; /* Center-align the text */
     }
-    .nav-link {
-        font-size: 14px !important; /* Set a smaller font size for phones */
+    header h1 {
+        font-size: 18px !important; /* Smaller font size for mobile */
+    }
+
+    .site-title {
+        font-size: 16px !important; /* Smaller font size for site title */
     }
 }
 
