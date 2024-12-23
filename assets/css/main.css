@@ -103,3 +103,39 @@ a {
     color: #000;     
     margin: 10px 0; 
 }
+
+/* Add responsive styles for mobile layout */
+@media screen and (max-width: 768px) {
+    div[style*="display: flex"] {
+        flex-direction: column !important; /* Stack image and text vertically */
+        align-items: center !important; /* Center-align the content */
+        text-align: center; /* Center-align text */
+    }
+
+    img[style*="max-width: 360px"] {
+        max-width: 80% !important; /* Scale the image for smaller screens */
+        margin-bottom: 20px !important; /* Add spacing below the image */
+    }
+
+    div > div {
+        text-align: center !important; /* Center-align the text */
+    }
+}
+
+/* Add explicit styles for larger screens (default layout) */
+@media screen and (min-width: 769px) {
+    div[style*="display: flex"] {
+        flex-direction: row !important; /* Keep image and text side-by-side */
+        align-items: flex-start !important; /* Align items at the top */
+        text-align: left; /* Left-align the text */
+    }
+
+    img[style*="max-width: 360px"] {
+        max-width: 360px !important; /* Ensure fixed size for larger screens */
+        margin-bottom: 0 !important; /* Remove spacing below the image */
+    }
+
+    div > div {
+        text-align: left !important; /* Left-align the text */
+    }
+}
