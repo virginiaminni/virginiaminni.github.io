@@ -77,9 +77,9 @@ It is the structure of the website, including scripts for phone version, for abs
 It includes some settings.
 
 ### uchicagoicon
-please check _layouts/default.html
-`<!-- <link rel="icon" type="image/svg+xml" href="/assets/images/uchicago_shield.svg"> -->`  <br>
-if we need change the blank icon to uchicago icon, please delete the comment symbols.  <br>
+please check _layouts/default.html  <br>
+`<!-- <link rel="icon" type="image/svg+xml" href="/assets/images/uchicago_shield.svg"> -->` 
+if we need change the blank icon to uchicago icon, please delete the comment symbols. It should be below:  <br>
 `<link rel="icon" type="image/svg+xml" href="/assets/images/uchicago_shield.svg"> `
 
 
