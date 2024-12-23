@@ -120,13 +120,7 @@ a {
     div > div {
         text-align: center !important; /* Center-align the text */
     }
-    header h1 {
-        font-size: 18px !important; /* Smaller font size for mobile */
-    }
 
-    .site-title {
-        font-size: 16px !important; /* Smaller font size for site title */
-    }
 }
 
 /* Add explicit styles for larger screens (default layout) */
