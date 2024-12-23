@@ -110,46 +110,60 @@ body, nav, header, a {
   will-change: transform, opacity;
 }
 
-
+/* General styles */
 .profile-container {
-    display: flex; /* Enable flexbox for side-by-side layout */
-    gap: 30px; /* Add spacing between the image and text */
-    align-items: flex-start; /* Align content at the top */
-    margin-top: 30px; /* Add space above the section */
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin-top: 30px;
 }
 
-/* Profile image for larger screens */
+/* Profile image general styling */
 .profile-image {
-    border-radius: 8px; /* Rounded corners */
-    max-width: 360px; /* Set a max width for the image */
-    height: auto; /* Maintain aspect ratio */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    border-radius: 8px;
+    max-width: 360px;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-
-/* Profile text styling */
+/* Profile text general styling */
 .profile-text {
-    max-width: 600px;
+    text-align: left;
 }
 
-/* Responsive layout for mobile devices */
+/* Responsive layout for smaller screens */
 @media screen and (max-width: 768px) {
     .profile-container {
-        flex-direction: column; /* Stack image above text */
-        align-items: center;
+        flex-direction: column; /* Stack image and text vertically */
+        align-items: center; /* Center-align content */
         text-align: center; /* Center-align text */
     }
 
     .profile-image {
+        max-width: 80%; /* Scale image down for smaller screens */
         margin-bottom: 20px; /* Add space below image */
-        max-width: 80%; /* Scale down image for smaller screens */
     }
 
     .profile-text {
-        font-size: 1rem; /* Adjust text size for readability */
+        text-align: center; /* Center-align text on smaller screens */
     }
-    .nav-link {
-        font-size: 14px; /* Smaller font size for phones */
+}
+
+/* Explicit layout for larger screens */
+@media screen and (min-width: 769px) {
+    .profile-container {
+        flex-direction: row; /* Side-by-side layout for larger screens */
+        align-items: flex-start; /* Align items at the top */
+        text-align: left; /* Text stays left-aligned */
+    }
+
+    .profile-image {
+        max-width: 360px; /* Restrict image width */
+        margin-bottom: 0; /* No margin below image */
+    }
+
+    .profile-text {
+        flex: 1; /* Allow text to fill available space */
     }
 }
 
