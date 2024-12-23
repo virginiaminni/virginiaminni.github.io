@@ -25,15 +25,7 @@
             <a href="/policy" class="nav-link {% if page.url == '/policy/' %}current{% endif %}">Policy</a>
         </nav>    
     </header>
-  <style>
-    @media screen and (max-width: 768px) {
-        .site-title { font-size: 17px !important; }
-        .nav-link { font-size: 15px !important; }
-    }
-</style>
-
-    
-    
+  
 
   <main>
     {{ content }}
@@ -42,6 +34,21 @@
   <footer>
     <p>&copy;  Virginia Minni</p>
   </footer>
+  <style>
+    @media screen and (max-width: 768px) {
+        .site-title { font-size: 17px !important; }
+        .nav-link { font-size: 15px !important; }
+        .h1 {
+                  color: #990000;
+                  font-family: 'Spectral', serif; 
+                  font-size: 48px; 
+                  text-align: center;
+                  font-weight: normal;
+                  margin-bottom: 40px;
+        }
+    }
+</style>
+
   <script>
     document.addEventListener("DOMContentLoaded", function () {
         const toggleLinks = document.querySelectorAll('.toggle-abstract');
