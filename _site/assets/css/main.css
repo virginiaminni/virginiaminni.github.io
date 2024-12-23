@@ -110,62 +110,8 @@ body, nav, header, a {
   will-change: transform, opacity;
 }
 
-/* General styles */
-.profile-container {
-    display: flex;
-    gap: 30px;
-    align-items: flex-start;
-    margin-top: 30px;
-}
 
-/* Profile image general styling */
-.profile-image {
-    border-radius: 8px;
-    max-width: 360px;
-    height: auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
 
-/* Profile text general styling */
-.profile-text {
-    text-align: left;
-}
-
-/* Responsive layout for smaller screens */
-@media screen and (max-width: 768px) {
-    .profile-container {
-        flex-direction: column; /* Stack image and text vertically */
-        align-items: center; /* Center-align content */
-        text-align: center; /* Center-align text */
-    }
-
-    .profile-image {
-        max-width: 80%; /* Scale image down for smaller screens */
-        margin-bottom: 20px; /* Add space below image */
-    }
-
-    .profile-text {
-        text-align: center; /* Center-align text on smaller screens */
-    }
-}
-
-/* Explicit layout for larger screens */
-@media screen and (min-width: 769px) {
-    .profile-container {
-        flex-direction: row; /* Side-by-side layout for larger screens */
-        align-items: flex-start; /* Align items at the top */
-        text-align: left; /* Text stays left-aligned */
-    }
-
-    .profile-image {
-        max-width: 360px; /* Restrict image width */
-        margin-bottom: 0; /* No margin below image */
-    }
-
-    .profile-text {
-        flex: 1; /* Allow text to fill available space */
-    }
-}
 
 
 
