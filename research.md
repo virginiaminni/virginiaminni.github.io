@@ -37,7 +37,7 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 
 <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">Gender Gaps across the Spectrum of Development: Local Talent and Firm Productivity</a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Victor Quintas-Martinez)  
-June 2024, *Working Paper* |<a href="#" class="toggle-abstract" data-target="abstract-3" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+December 2024, *Working Paper* |<a href="#" class="toggle-abstract" data-target="abstract-3" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 
 Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506afa" target="_blank" rel="noopener noreferrer">Financial Times</a>, <a href="https://www.economist.com/britain/2022/06/30/british-child-care-is-expensive" target="_blank" rel="noopener noreferrer">The Economist</a>, <a href="https://www.thetimes.com/business-money/economics/article/a-man-cant-fix-childcare-only-a-woman-can-n7lj9nn0p?region=global" target="_blank" rel="noopener noreferrer">The Times</a>,  <a href="https://marginalrevolution.com/marginalrevolution/2023/05/gender-roles-and-the-misallocation-of-labour-across-countries.html" target="_blank" rel="noopener noreferrer">Marginal Revolution</a> 
