@@ -120,14 +120,7 @@ a {
     div > div {
         text-align: center !important; /* Center-align the text */
     }
-    h1 {
-    color: #990000;
-    font-family: 'Spectral', serif; 
-    font-size: 48px; 
-    text-align: center;
-    font-weight: normal;
-    margin-bottom: 50px;
-    }
+
     
 
 }
