@@ -14,6 +14,7 @@ header {
     display: flex;
     font-family: 'Spectral', serif;
     justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
     padding: 10px 20px;
     font-size: 18.5px;
@@ -110,24 +111,40 @@ body, nav, header, a {
 }
 
 /* for mobile phones */
-@media (max-width: 768px) {
-  body {
-    padding: 10px; 
-  }
+/* Responsive adjustments for smaller screens */
 
-  img {
-    max-width: 100%; /* Ensures images scale correctly */
-    height: auto; /* Maintains aspect ratio */
-  }
+@media screen and (max-width: 768px) {
+    /* Header adjustments */
+    header {
+        flex-direction: column; /* Stack items vertically */
+        text-align: center; /* Center-align the text */
+        padding: 15px;
+    }
 
-  div {
-    flex-direction: column; 
-    align-items: center; 
-  }
+    .site-title {
+        font-size: 20px; /* Adjust title size for smaller screens */
+        margin-bottom: 10px;
+    }
 
-  p {
-    font-size: 14px; 
-  }
+    .nav-link {
+        font-size: 16px; /* Slightly reduce navigation font size */
+        margin: 5px 0; /* Space out the links vertically */
+    }
+
+    /* Main content */
+    main {
+        padding: 15px;
+    }
+
+    /* Images */
+    img {
+        border-radius: 6px;
+    }
+
+    /* Headings */
+    h1 {
+        font-size: 36px; /* Smaller heading for small screens */
+    }
 }
 
 
