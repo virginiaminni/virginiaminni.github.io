@@ -110,24 +110,22 @@ body, nav, header, a {
   will-change: transform, opacity;
 }
 
-/* for mobile phones */
-/* Responsive adjustments for smaller screens */
 
-/* Profile container for desktop and mobile */
 .profile-container {
-    display: flex;
-    gap: 30px;
-    align-items: flex-start;
-    margin-top: 30px;
+    display: flex; /* Enable flexbox for side-by-side layout */
+    gap: 30px; /* Add spacing between the image and text */
+    align-items: flex-start; /* Align content at the top */
+    margin-top: 30px; /* Add space above the section */
 }
 
-/* Profile image styling */
+/* Profile image for larger screens */
 .profile-image {
-    border-radius: 8px;
-    max-width: 360px;
-    height: auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; /* Rounded corners */
+    max-width: 360px; /* Set a max width for the image */
+    height: auto; /* Maintain aspect ratio */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
 }
+
 
 /* Profile text styling */
 .profile-text {
@@ -155,13 +153,5 @@ body, nav, header, a {
     }
 }
 
-/* Desktop layout: side-by-side alignment */
-@media screen and (min-width: 769px) {
-    .profile-container {
-        flex-direction: row; /* Display image on the left */
-        text-align: left;
-    }
-}
 
 
-   
