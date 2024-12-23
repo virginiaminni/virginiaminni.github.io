@@ -113,71 +113,52 @@ body, nav, header, a {
 /* for mobile phones */
 /* Responsive adjustments for smaller screens */
 
+/* Profile container for desktop and mobile */
+.profile-container {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin-top: 30px;
+}
+
+/* Profile image styling */
+.profile-image {
+    border-radius: 8px;
+    max-width: 360px;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Profile text styling */
+.profile-text {
+    max-width: 600px;
+}
+
+/* Responsive layout for mobile devices */
 @media screen and (max-width: 768px) {
-    /* Header adjustments */
-    header {
-        flex-direction: column; /* Stack items vertically */
-        text-align: center; /* Center-align the text */
-        padding: 15px;
+    .profile-container {
+        flex-direction: column; /* Stack image above text */
+        align-items: center;
+        text-align: center; /* Center-align text */
     }
 
-    .site-title {
-        font-size: 20px; /* Adjust title size for smaller screens */
-        margin-bottom: 10px;
+    .profile-image {
+        margin-bottom: 20px; /* Add space below image */
+        max-width: 80%; /* Scale down image for smaller screens */
     }
 
-    .nav-link {
-        font-size: 16px; /* Slightly reduce navigation font size */
-        margin: 5px 0; /* Space out the links vertically */
-    }
-
-    /* Main content */
-    main {
-        padding: 15px;
-    }
-
-    /* Images */
-    img {
-        border-radius: 6px;
-    }
-
-    /* Headings */
-    h1 {
-        font-size: 36px; /* Smaller heading for small screens */
+    .profile-text {
+        font-size: 1rem; /* Adjust text size for readability */
     }
 }
 
-@media screen and (max-width: 480px) {
-    /* Header adjustments */
-    header {
-        padding: 10px;
-    }
-
-    .site-title {
-        font-size: 18px;
-    }
-
-    .nav-link {
-        font-size: 14px;
-    }
-
-    /* Body adjustments */
-    body {
-        padding: 10px; /* Add space for small screens */
-    }
-
-    /* Headings */
-    h1 {
-        font-size: 28px;
-    }
-
-    /* Images */
-    img {
-        border-radius: 4px;
-    }
-
-    /* Footer */
-    footer {
-        font-size: 0.8em; /* Smaller font for footer */
+/* Desktop layout: side-by-side alignment */
+@media screen and (min-width: 769px) {
+    .profile-container {
+        flex-direction: row; /* Display image on the left */
+        text-align: left;
     }
 }
+
+
+   
