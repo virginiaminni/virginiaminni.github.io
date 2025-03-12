@@ -22,19 +22,6 @@ Coverage: <a href="https://www.thevisiblehand.uk/episodes/episode-54" target="_b
  </div>
 <br>
 
-<a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">Leaders in Social Movements: Evidence from Unions in Myanmar</a> <br>
-(with Laura Boudreau, Rocco Macchiavello, and Mari Tanaka)  
-November 2024, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-2" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/BMMT_UnionLeaders_SupMat.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
-
-*Conditionally Accepted*, **American Economic Review**
-
-Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-leads-unions-and-how-do-they-lead-evidence-myanmar" target="_blank" rel="noopener noreferrer">VoxDev Column</a>, <a href="https://www.povertyactionlab.org/evaluation/union-leaders-and-factory-workers-collective-action-myanmar" target="_blank" rel="noopener noreferrer">J-PAL Summary</a>, <a href="https://faculti.net/union-leaders-experimental-evidence-from-myanmar/" target="_blank" rel="noopener noreferrer">Faculti Video</a>
-
-<div id="abstract-2" style="display: none; margin-top: 10px;">
-<em>Abstract:</em>  Social movements are catalysts for crucial institutional changes. To succeed, they must coordinate members’ views (consensus building) and actions (mobilization). We study union leaders within Myanmar’s burgeoning labor movement. Union leaders are positively selected on both personality traits that enable them to influence others and ability but earn lower wages. In group discussions about workers' views on an upcoming national minimum wage negotiation, randomly embedded leaders build consensus around the union’s preferred policy. In an experiment that mimics individual decision-making in a collective action set-up, leaders increase mobilization through coordination. Leaders empower social movements by building consensus that encourages mobilization.
-</div>
-<br>
-
 <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">Gender Gaps across the Spectrum of Development: Local Talent and Firm Productivity</a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Victor Quintas-Martinez)  
 December 2024, *Working Paper* |<a href="#" class="toggle-abstract" data-target="abstract-3" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -58,6 +45,21 @@ Coverage:
 
 <div id="abstract-4" style="display: none; margin-top: 10px;">
 <em>Abstract:</em>  Firms traditionally use incentives to align their goals with the workers’. In this paper, we evaluate a firm’s attempt to do the opposite by encouraging employees to reflect on what gives their life meaning and whether this can be achieved at work. We randomize the rollout of a "Discover Your Purpose" intervention among 3,000 white-collar employees and evaluate their outcomes over two years. The intervention is rooted in the psychiatrist principles of logotherapy and guides workers through a reflection process of pivotal life experiences, to promote a greater understanding of personal purpose by linking past memories and present work in a coherent narrative. We find that performance increases because the bottom performers either leave the firm, laterally move, or do better. Consistent with the intervention reducing the cost of effort of the workers who remain, we find that it flattens the trade-off between meaning and pay, as it is the highest paid among the low performers who either leave the firm or report higher meaning. The intervention is cost effective and the generated gains are shared between the firm and the employees in the form of higher pay.
+</div>
+<br>
+
+## Refereed publications
+
+<a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">Leaders in Social Movements: Evidence from Unions in Myanmar</a> <br>
+(with Laura Boudreau, Rocco Macchiavello, and Mari Tanaka)  
+November 2024, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-2" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/BMMT_UnionLeaders_SupMat.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
+
+*Accepted*, **American Economic Review**
+
+Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-leads-unions-and-how-do-they-lead-evidence-myanmar" target="_blank" rel="noopener noreferrer">VoxDev Column</a>, <a href="https://www.povertyactionlab.org/evaluation/union-leaders-and-factory-workers-collective-action-myanmar" target="_blank" rel="noopener noreferrer">J-PAL Summary</a>, <a href="https://faculti.net/union-leaders-experimental-evidence-from-myanmar/" target="_blank" rel="noopener noreferrer">Faculti Video</a>
+
+<div id="abstract-2" style="display: none; margin-top: 10px;">
+<em>Abstract:</em>  Social movements are catalysts for crucial institutional changes. To succeed, they must coordinate members’ views (consensus building) and actions (mobilization). We study union leaders within Myanmar’s burgeoning labor movement. Union leaders are positively selected on both personality traits that enable them to influence others and ability but earn lower wages. In group discussions about workers' views on an upcoming national minimum wage negotiation, randomly embedded leaders build consensus around the union’s preferred policy. In an experiment that mimics individual decision-making in a collective action set-up, leaders increase mobilization through coordination. Leaders empower social movements by building consensus that encourages mobilization.
 </div>
 <br>
 
