@@ -54,7 +54,7 @@ Coverage:
 (with Laura Boudreau, Rocco Macchiavello, and Mari Tanaka)  
 November 2024, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-2" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/BMMT_UnionLeaders_SupMat.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
 
-*Accepted*, **American Economic Review**
+*Forthcoming*, **American Economic Review**
 
 Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-leads-unions-and-how-do-they-lead-evidence-myanmar" target="_blank" rel="noopener noreferrer">VoxDev Column</a>, <a href="https://www.povertyactionlab.org/evaluation/union-leaders-and-factory-workers-collective-action-myanmar" target="_blank" rel="noopener noreferrer">J-PAL Summary</a>, <a href="https://faculti.net/union-leaders-experimental-evidence-from-myanmar/" target="_blank" rel="noopener noreferrer">Faculti Video</a>
 
