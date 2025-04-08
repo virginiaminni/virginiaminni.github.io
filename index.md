@@ -11,7 +11,7 @@ permalink: /
     <div>
         <p>I am an Assistant Professor of Economics at the University of Chicago Booth School of Business. My research focuses on questions in labor, organizational, and development economics.</p>
 
-        <p>I collaborate with organizations to examine the factors that determine the allocation and production of talent in the labor market, and the role individual leaders play in shaping this process.</p>
+        <p>I collaborate with organizations to examine the factors that determine the allocation and production of talent in labor markets, and the role individual leaders play in shaping this process.</p>
 
         <p>I received my PhD in Economics at the London School of Economics (LSE).</p>
 
