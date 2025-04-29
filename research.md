@@ -77,7 +77,7 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 
 ## Selected work in progress
  Managers and the Cultural Transmission of Gender Norms <br>
-(with Kieu-Trang Nguyen and Heather Sarsons)
+(with Kieu-Trang Nguyen, Heather Sarsons and Carla Srebot)
 <br>
 
 Unemployment, Volunteering, and Re-envisioning the Nature of Work<br>
