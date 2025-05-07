@@ -37,7 +37,7 @@ Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506
 
 Meaning at Work <br>
 (with Nava Ashraf, Oriana Bandiera and Luigi Zingales)  
-September 2024, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a>| [PDF]
+May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a>| [PDF]
 
 Coverage: 
 <a href="https://www.economist.com/business/2024/12/05/how-to-inspire-people" target="_blank" rel="noopener noreferrer">The Economist 2024</a>, <a href="https://www.economist.com/business/2025/02/13/how-to-get-people-to-resign" target="_blank" rel="noopener noreferrer">The Economist 2025</a> 
@@ -80,6 +80,4 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 (with Kieu-Trang Nguyen, Heather Sarsons and Carla Srebot)
 <br>
 
-Unemployment, Volunteering, and Re-envisioning the Nature of Work<br>
-(with Nava Ashraf, Oriana Bandiera, and Martina Zanella)
 
