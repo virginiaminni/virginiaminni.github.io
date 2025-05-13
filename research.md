@@ -35,16 +35,16 @@ Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506
 </div>
 <br>
 
-Meaning at Work <br>
+<a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">Meaning at Work </a> <br>
 (with Nava Ashraf, Oriana Bandiera and Luigi Zingales)  
-May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a>| [PDF]
+May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 Coverage: 
 <a href="https://www.economist.com/business/2024/12/05/how-to-inspire-people" target="_blank" rel="noopener noreferrer">The Economist 2024</a>, <a href="https://www.economist.com/business/2025/02/13/how-to-get-people-to-resign" target="_blank" rel="noopener noreferrer">The Economist 2025</a> 
 
 
 <div id="abstract-4" style="display: none; margin-top: 10px;">
-<em>Abstract:</em>  Firms traditionally use incentives to align their goals with the workers’. In this paper, we evaluate a firm’s attempt to do the opposite by encouraging employees to reflect on what gives their life meaning and whether this can be achieved at work. We randomize the rollout of a "Discover Your Purpose" intervention among 3,000 white-collar employees and evaluate their outcomes over two years. The intervention is rooted in the psychiatrist principles of logotherapy and guides workers through a reflection process of pivotal life experiences, to promote a greater understanding of personal purpose by linking past memories and present work in a coherent narrative. We find that performance increases because the bottom performers either leave the firm, laterally move, or do better. Consistent with the intervention reducing the cost of effort of the workers who remain, we find that it flattens the trade-off between meaning and pay, as it is the highest paid among the low performers who either leave the firm or report higher meaning. The intervention is cost effective and the generated gains are shared between the firm and the employees in the form of higher pay.
+<em>Abstract:</em>  We evaluate a firm’s unusual, worker-centered, solution to the agency problem: enabling employees to reduce the cost of effort rather than pushing them with performance rewards. We randomize the roll-out of the firm’s “Discover Your Purpose” intervention among 2,976 white-collar employees and evaluate their outcomes over two years. We find that performance increases because the low performers either leave the firm or improve in their current jobs. The trade-off between meaning and pay flattens as those with low meaning and high pay leave the firm. Treatment also reshapes stated priorities and reduces gender gaps in preferences and behaviors, including uptake of parental leave. A cost-benefit analysis reveals high returns that are shared between the firm and the employees through higher bonuses. Finally, we show that observational data obscure these gains, causing firms to underestimate the intervention’s true value.
 </div>
 <br>
 
