@@ -64,9 +64,8 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 <br>
 
 ## Non-refereed publications
-
 <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
-*AEA Papers & Proceedings* (2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+**AEA Papers & Proceedings** (2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 <div id="abstract-5" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> How are wages set within a multinational firm? Combining cross-country data on wages and labor regulations with personnel records of a large multinational firm, I find that wage setting depends on the rank of the employee in the firm hierarchy. For managers, wages are set by the headquarters regardless of local labor market conditions. For factory workers, wages are adjusted according to country-specific wages and labor regulations. These results suggest that the multinational's internal labor market shields managers against changes in external market conditions, while the firm adapts to local labor markets for factory workers.
