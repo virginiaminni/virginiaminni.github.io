@@ -50,11 +50,9 @@ Coverage:
 
 ## Refereed publications
 
-<a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">Leaders in Social Movements: Evidence from Unions in Myanmar</a> <br>
+<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20230758&from=f" target="_blank" rel="noopener noreferrer">Leaders in Social Movements: Evidence from Unions in Myanmar</a> <br>
 (with Laura Boudreau, Rocco Macchiavello, and Mari Tanaka)  
-November 2024, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-2" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/BMMT_UnionLeaders_SupMat.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
-
-*Forthcoming*, **American Economic Review**
+**American Economic Review** (2025), 115(6): 1975-2000 | <a href="#" class="toggle-abstract" data-target="abstract-2" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/BMMT_UnionLeaders_SupMat.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
 
 Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-leads-unions-and-how-do-they-lead-evidence-myanmar" target="_blank" rel="noopener noreferrer">VoxDev Column</a>, <a href="https://www.povertyactionlab.org/evaluation/union-leaders-and-factory-workers-collective-action-myanmar" target="_blank" rel="noopener noreferrer">J-PAL Summary</a>, <a href="https://faculti.net/union-leaders-experimental-evidence-from-myanmar/" target="_blank" rel="noopener noreferrer">Faculti Video</a>
 
@@ -64,7 +62,7 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 <br>
 
 ## Non-refereed publications
-<a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
+<a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241076" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
 **AEA Papers & Proceedings** (2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 <div id="abstract-5" style="display: none; margin-top: 10px;">
