@@ -40,7 +40,7 @@ Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506
 May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 Coverage: 
-<a href="https://www.economist.com/business/2024/12/05/how-to-inspire-people" target="_blank" rel="noopener noreferrer">The Economist 2024</a>, <a href="https://www.economist.com/business/2025/02/13/how-to-get-people-to-resign" target="_blank" rel="noopener noreferrer">The Economist 2025</a>, <a href="https://bfi.uchicago.edu/insights/meaning-at-work/" target="_blank" rel="noopener noreferrer">BFI Research Brief</a> <a href="https://cepr.org/multimedia/finding-meaning-work" target="_blank" rel="noopener noreferrer">VoxEU Talk</a>  
+<a href="https://www.economist.com/business/2024/12/05/how-to-inspire-people" target="_blank" rel="noopener noreferrer">The Economist 2024</a>, <a href="https://www.economist.com/business/2025/02/13/how-to-get-people-to-resign" target="_blank" rel="noopener noreferrer">The Economist 2025</a>, <a href="https://bfi.uchicago.edu/insights/meaning-at-work/" target="_blank" rel="noopener noreferrer">BFI Research Brief</a>, <a href="https://cepr.org/multimedia/finding-meaning-work" target="_blank" rel="noopener noreferrer">VoxEU Talk</a>  
 
 
 <div id="abstract-4" style="display: none; margin-top: 10px;">
