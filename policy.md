@@ -12,7 +12,6 @@ permalink: /policy/
 (with Nava Ashraf, Oriana Bandiera, and Martina Zanella)<br>
 2025, *Nuffield Foundation Public Output*  | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [Article] 
 
-<br>
 <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">Improving the allocation of talent by enabling Italian women to work</a> <br>
 2020, *Agenda Article (Treccani)* | <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">[Article]
 
