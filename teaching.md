@@ -5,9 +5,7 @@ permalink: /teaching/
 ---
 
 # Teaching
-
 ## Courses
-
 <a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/EC/2023_EC307.htm" target="_blank">Development Economics (EC307)</a>, LSE - 2019-2020 <br>
 *Graduate Teaching Assistant* <br>
 Instructors: Oriana Bandiera and Robin Burgess
