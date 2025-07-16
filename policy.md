@@ -10,7 +10,7 @@ permalink: /policy/
 
 <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> Long-term Unemployment, Volunteering and Re-envisioning the Nature of Work </a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Martina Zanella)<br>
-2025, *Nuffield Foundation Public Output*  | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [Article] </a>
+2025, *Nuffield Foundation Public Output*  | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [Article] 
 
 <br>
 <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">Improving the allocation of talent by enabling Italian women to work</a> <br>
