@@ -21,10 +21,8 @@ Coverage: <a href="https://www.thevisiblehand.uk/episodes/episode-54" target="_b
 
 <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">Meaning at Work </a> <br>
 (with Nava Ashraf, Oriana Bandiera and Luigi Zingales)  
-May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
-
-*Revise and Resubmit*, **Quarterly Journal of Economics**
-
+May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
+*Revise and Resubmit*, **Quarterly Journal of Economics** <br>
 Coverage: 
 <a href="https://www.economist.com/business/2024/12/05/how-to-inspire-people" target="_blank" rel="noopener noreferrer">The Economist 2024</a>, <a href="https://www.economist.com/business/2025/02/13/how-to-get-people-to-resign" target="_blank" rel="noopener noreferrer">The Economist 2025</a>, <a href="https://bfi.uchicago.edu/insights/meaning-at-work/" target="_blank" rel="noopener noreferrer">BFI Research Brief</a>, <a href="https://cepr.org/multimedia/finding-meaning-work" target="_blank" rel="noopener noreferrer">VoxEU Talk</a>, <a href="https://www.lemonde.fr/idees/article/2025/07/02/l-amelioration-des-conditions-de-travail-pourrait-contribuer-a-l-equilibre-des-caisses-de-retraite_6617358_3232.html?search-type=classic&ise_click_rank=1" target="_blank" rel="noopener noreferrer">Le Monde</a>  
 
@@ -50,7 +48,7 @@ Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506
 ## Refereed publications
 <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20230758&from=f" target="_blank" rel="noopener noreferrer">Leaders in Social Movements: Evidence from Unions in Myanmar</a> <br>
 (with Laura Boudreau, Rocco Macchiavello, and Mari Tanaka)  
-**American Economic Review** (2025), 115(6): 1975-2000 | <a href="#" class="toggle-abstract" data-target="abstract-2" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/BMMT_UnionLeaders_SupMat.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
+**American Economic Review** (2025), 115(6): 1975-2000 | <a href="#" class="toggle-abstract" data-target="abstract-2" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/BMMT_UnionLeaders.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/BMMT_UnionLeaders_SupMat.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a> <br>
 Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-leads-unions-and-how-do-they-lead-evidence-myanmar" target="_blank" rel="noopener noreferrer">VoxDev Column</a>, <a href="https://www.povertyactionlab.org/evaluation/union-leaders-and-factory-workers-collective-action-myanmar" target="_blank" rel="noopener noreferrer">J-PAL Summary</a>, <a href="https://faculti.net/union-leaders-experimental-evidence-from-myanmar/" target="_blank" rel="noopener noreferrer">Faculti Video</a>, <a href="https://business.columbia.edu/research-brief/research-brief/psychology-labor-leaders" target="_blank" rel="noopener noreferrer">Jerome A. Chazen Institute for Global Business Research Brief</a>, <a href="https://www.aeaweb.org/research/leaders-social-movements-myanmar" target="_blank" rel="noopener noreferrer">AEA Research Highlight</a>
 
 <div id="abstract-2" style="display: none; margin-top: 10px;">
