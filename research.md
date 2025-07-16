@@ -9,10 +9,8 @@ permalink: /research/
 ## Working papers
 
 <a href="/assets/files/Minni_JMP.pdf" target="_blank" rel="noopener noreferrer">Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs</a> <br>
-November 2024, *Working Paper* |  <a href="#" class="toggle-abstract" data-target="abstract-1" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/Minni_JMP.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/Minni_Managers_Supplementary.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
-
-*Revise and Resubmit*, **Quarterly Journal of Economics**
-
+November 2024, *Working Paper* |  <a href="#" class="toggle-abstract" data-target="abstract-1" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/Minni_JMP.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/Minni_Managers_Supplementary.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a> <br>
+*Revise and Resubmit*, **Quarterly Journal of Economics** <br>
 *Best Job Market Paper Award by the European Economic Association and UniCredit Foundation, W.E. Upjohn Institute for Employment Research Dissertation Award Honorable Mention, AIEL Labor Dissertation Prize, Ronald Coase Best Dissertation Award by the Society for Institutional and Organizational Economics*
 Coverage: <a href="https://www.thevisiblehand.uk/episodes/episode-54" target="_blank" rel="noopener noreferrer">The Visible Hand Podcast</a>, <a href="https://www.youtube.com/watch?v=83ivIJCi2bQ&feature=youtu.be" target="_blank" rel="noopener noreferrer">Econimate</a>, <a href="https://www.economist.com/business/2024/03/21/the-secret-to-career-success-may-well-be-off-to-the-side" target="_blank" rel="noopener noreferrer">The Economist</a>,  <a href="https://cepr.org/voxeu/columns/good-managers-better-matches-job-allocation-effects-worker-productivity" target="_blank" rel="noopener noreferrer">VoxEU</a>, <a href="https://marginalrevolution.com/marginalrevolution/2025/06/the-value-of-good-management-and-also-talent-allocation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-value-of-good-management-and-also-talent-allocation" target="_blank" rel="noopener noreferrer">Marginal Revolution</a> 
 
