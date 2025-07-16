@@ -46,7 +46,7 @@ Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506
 
 Managers and the Cultural Transmission of Gender Norms <br>
 (with Kieu-Trang Nguyen, Heather Sarsons and Carla Srebot)  <br>
-May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="" target="_blank" rel="noopener noreferrer">[PDF]</a>
+July 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
 <div id="abstract-6" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> This paper examines the influence of managers from countries with different gender norms on workplace culture and gender disparities within organizations. Using data from a multinational firm operating in over 100 countries, we exploit crosscountry manager rotations that are orthogonal to workers to estimate the impact of male managers’ gender norms on the work outcomes of male and female workers within the same team. Managers from countries with one standard deviation more progressive gender attitudes narrow the gender pay gap by 5 percentage points (18%), primarily by promoting women at higher rates. The effects last beyond the manager’s rotation and are concentrated in countries with more conservative gender attitudes. Moreover, local managers in the destination office change their own attitudes, as evidenced by those managers in turn being more gender-equal with their subordinates. Our evidence points to individual managers as critical in shaping corporate culture.
@@ -74,7 +74,7 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 
 <br>
 
-## Selected work in progress
+<!-- ## Selected work in progress -->
 
 
 <br>
