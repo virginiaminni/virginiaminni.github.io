@@ -10,7 +10,9 @@ permalink: /research/
 
 <a href="/assets/files/Minni_JMP.pdf" target="_blank" rel="noopener noreferrer">Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs</a> <br>
 November 2024, *Working Paper* |  <a href="#" class="toggle-abstract" data-target="abstract-1" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/Minni_JMP.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> | <a href="/assets/files/Minni_Managers_Supplementary.pdf" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
+
 *Revise and Resubmit*, **Quarterly Journal of Economics**
+
 *Best Job Market Paper Award by the European Economic Association and UniCredit Foundation, W.E. Upjohn Institute for Employment Research Dissertation Award Honorable Mention, AIEL Labor Dissertation Prize, Ronald Coase Best Dissertation Award by the Society for Institutional and Organizational Economics*
 Coverage: <a href="https://www.thevisiblehand.uk/episodes/episode-54" target="_blank" rel="noopener noreferrer">The Visible Hand Podcast</a>, <a href="https://www.youtube.com/watch?v=83ivIJCi2bQ&feature=youtu.be" target="_blank" rel="noopener noreferrer">Econimate</a>, <a href="https://www.economist.com/business/2024/03/21/the-secret-to-career-success-may-well-be-off-to-the-side" target="_blank" rel="noopener noreferrer">The Economist</a>,  <a href="https://cepr.org/voxeu/columns/good-managers-better-matches-job-allocation-effects-worker-productivity" target="_blank" rel="noopener noreferrer">VoxEU</a>, <a href="https://marginalrevolution.com/marginalrevolution/2025/06/the-value-of-good-management-and-also-talent-allocation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-value-of-good-management-and-also-talent-allocation" target="_blank" rel="noopener noreferrer">Marginal Revolution</a> 
 
@@ -22,7 +24,9 @@ Coverage: <a href="https://www.thevisiblehand.uk/episodes/episode-54" target="_b
 <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">Meaning at Work </a> <br>
 (with Nava Ashraf, Oriana Bandiera and Luigi Zingales)  
 May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+
 *Revise and Resubmit*, **Quarterly Journal of Economics**
+
 Coverage: 
 <a href="https://www.economist.com/business/2024/12/05/how-to-inspire-people" target="_blank" rel="noopener noreferrer">The Economist 2024</a>, <a href="https://www.economist.com/business/2025/02/13/how-to-get-people-to-resign" target="_blank" rel="noopener noreferrer">The Economist 2025</a>, <a href="https://bfi.uchicago.edu/insights/meaning-at-work/" target="_blank" rel="noopener noreferrer">BFI Research Brief</a>, <a href="https://cepr.org/multimedia/finding-meaning-work" target="_blank" rel="noopener noreferrer">VoxEU Talk</a>, <a href="https://www.lemonde.fr/idees/article/2025/07/02/l-amelioration-des-conditions-de-travail-pourrait-contribuer-a-l-equilibre-des-caisses-de-retraite_6617358_3232.html?search-type=classic&ise_click_rank=1" target="_blank" rel="noopener noreferrer">Le Monde</a>  
 
@@ -34,7 +38,8 @@ Coverage:
 
 <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">Gender Gaps across the Spectrum of Development: Local Talent and Firm Productivity</a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Victor Quintas-Martinez)  
-April 2025, *Working Paper* |<a href="#" class="toggle-abstract" data-target="abstract-3" style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+April 2025, *Working Paper* |<a href="#" class="toggle-abstract" data-target="abstract-3" style="text-decoration: underline; color: #990000;">
+[Abstract]</a>| <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
 Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506afa" target="_blank" rel="noopener noreferrer">Financial Times</a>, <a href="https://www.economist.com/britain/2022/06/30/british-child-care-is-expensive" target="_blank" rel="noopener noreferrer">The Economist</a>, <a href="https://www.thetimes.com/business-money/economics/article/a-man-cant-fix-childcare-only-a-woman-can-n7lj9nn0p?region=global" target="_blank" rel="noopener noreferrer">The Times</a>,  <a href="https://marginalrevolution.com/marginalrevolution/2023/05/gender-roles-and-the-misallocation-of-labour-across-countries.html" target="_blank" rel="noopener noreferrer">Marginal Revolution</a> 
 
 
