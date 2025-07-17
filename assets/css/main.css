@@ -142,3 +142,36 @@ a {
         text-align: left !important; /* Left-align the text */
     }
 }
+
+/* === Added styles to reduce vertical spacing === */
+
+/* Tighten spacing around headings */
+h3 {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
+/* Reduce spacing for paragraphs */
+p {
+    margin-bottom: 0.3em;
+    line-height: 1.25;
+}
+
+/* Reduce margin of your abstract divs */
+#abstract-1, #abstract-4 {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+/* Reduce spacing caused by <br> tags */
+br {
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
