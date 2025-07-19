@@ -81,7 +81,7 @@ h1 {
     font-size: 58px; 
     text-align: center;
     font-weight: normal;
-    /* margin-bottom: 60px; */
+    margin-bottom: 15px;
 }
 h2
 {
@@ -89,7 +89,7 @@ h2
     font-family: 'Spectral', serif; 
     font-size: 36px; 
     font-weight: normal;
-    /* margin-bottom: 36px; */
+    margin-bottom: 20px; 
 }
   
 /* Links styling */
@@ -146,14 +146,6 @@ a {
 /* === Added styles to reduce vertical spacing === */
 
 /* Reduce spacing between h1 and h2 */
-h1 {
-  margin-bottom: 10px; /* Default is usually 20px or more */
-}
-
-h2 {
-  margin-top: 10px; /* Default is often 30px or more */
-}
-
 h2 + a {
   margin-top: 0;
 }
