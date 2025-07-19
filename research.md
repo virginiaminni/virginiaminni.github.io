@@ -16,7 +16,7 @@ Coverage: <a href="https://www.thevisiblehand.uk/episodes/episode-54" target="_b
 <div id="abstract-1" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> Why do managers matter for firm performance? This paper provides evidence of the critical role of managers in matching workers to jobs within the firm using the universe of personnel records from a large multinational firm. The data covers 200,000 white-collar workers and 30,000 managers over 10 years in 100 countries. I identify good managers as the top 30% by their speed of promotion and leverage exogenous variation induced by the rotation of managers across teams. I find that good managers cause workers to reallocate within the firm through lateral and vertical transfers. This leads to large and persistent gains in workers’ career progression and productivity. Seven years after the manager transition, workers earn 30% more and perform better on objective performance measures. My results imply that the visible hands of managers match workers’ specific skills to specialized jobs, leading to an improvement in the productivity of existing workers that outlasts the managers’ time at the firm.
 </div>
-<br>
+
 
 <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">Meaning at Work</a> <br>
 (with Nava Ashraf, Oriana Bandiera and Luigi Zingales)  
