@@ -54,7 +54,7 @@ header h1 {
   main {
     max-width: 1100px; 
     margin:  1% auto ; /* Center the content */
-    padding: 20px; /* Add padding around the content */
+    padding: 10px; /* Add padding around the content */
 }
   
 /* Image styling */
