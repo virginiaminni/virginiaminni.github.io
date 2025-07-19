@@ -81,7 +81,7 @@ h1 {
     font-size: 58px; 
     text-align: center;
     font-weight: normal;
-    margin-bottom: 60px;
+    /* margin-bottom: 60px; */
 }
 h2
 {
@@ -89,7 +89,7 @@ h2
     font-family: 'Spectral', serif; 
     font-size: 36px; 
     font-weight: normal;
-    margin-bottom: 36px;
+    /* margin-bottom: 36px; */
 }
   
 /* Links styling */
@@ -145,31 +145,14 @@ a {
 
 /* === Added styles to reduce vertical spacing === */
 
-/* Tighten spacing around headings */
-h3 {
-    margin-top: 0.3em;
-    margin-bottom: 0.3em;
+/* Reduce spacing between h1 and h2 */
+h1 {
+  margin-bottom: 10px; /* Default is usually 20px or more */
 }
 
-/* Reduce spacing for paragraphs */
-p {
-    margin-bottom: 0.3em;
-    line-height: 1.25;
+h2 {
+  margin-top: 10px; /* Default is often 30px or more */
 }
-
-/* Reduce margin of your abstract divs */
-#abstract-1, #abstract-4 {
-    margin-top: 5px !important;
-    margin-bottom: 5px !important;
-}
-
-/* Reduce spacing caused by <br> tags */
-br {
-    line-height: 0;
-    margin: 0;
-    padding: 0;
-}
-
 
 
 
