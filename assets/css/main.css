@@ -81,7 +81,7 @@ h1 {
     font-size: 58px; 
     text-align: center;
     font-weight: normal;
-    margin-bottom: 5px;
+    margin-bottom: 0;
 }
 h2
 {
@@ -89,7 +89,7 @@ h2
     font-family: 'Spectral', serif; 
     font-size: 36px; 
     font-weight: normal;
-    margin-bottom: 5px; 
+    margin-bottom: 0; 
 }
   
 /* Links styling */
