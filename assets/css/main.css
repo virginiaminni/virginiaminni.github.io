@@ -15,7 +15,7 @@ header {
     font-family: 'Spectral', serif;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 0px;
+    padding: 5px 5px;
     font-size: 18.5px;
     border-bottom: 1px solid #ddd;
 }
