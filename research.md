@@ -27,7 +27,6 @@ Coverage:
 <div id="abstract-4" style="display: none; margin-top: 10px;">
 <em>Abstract:</em>  We evaluate a firm’s unusual, worker-centered, solution to the agency problem: enabling employees to reduce the cost of effort rather than pushing them with performance rewards. We randomize the roll-out of the firm’s “Discover Your Purpose” intervention among 2,976 white-collar employees and evaluate their outcomes over two years. We find that performance increases because the low performers either leave the firm or improve in their current jobs. The trade-off between meaning and pay flattens as those with low meaning and high pay leave the firm. Treatment also reshapes stated priorities and reduces gender gaps in preferences and behaviors, including uptake of parental leave. A cost-benefit analysis reveals high returns that are shared between the firm and the employees through higher bonuses. Finally, we show that observational data obscure these gains, causing firms to underestimate the intervention’s true value.
 </div>
-<br>
 
 <a href="/assets/files/ABMQ Gaps.pdf" target="_blank" rel="noopener noreferrer">Gender Gaps across the Spectrum of Development: Local Talent and Firm Productivity</a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Victor Quintas-Martinez)  
@@ -37,7 +36,6 @@ Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506
 <div id="abstract-3" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> We ask whether the gendered division of work affects firm productivity across the spectrum of economic development. Personnel records of over 100,000 individuals hired by a global firm that operates in 100 countries reveal that female employee performance is higher where women are underrepresented in the candidate pool.  This implies productivity gains from hiring more women, but realizing them would require increasing women's pay relative to men. The findings highlight how unequal gender norms in local labor markets create an equity-efficiency trade-off inside the firm, particularly in low-income countries with conservative gender norms.
 </div>
-<br>
 
 Managers and the Cultural Transmission of Gender Norms <br>
 (with Kieu-Trang Nguyen, Heather Sarsons and Carla Srebot)  <br>
@@ -54,7 +52,6 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 <div id="abstract-2" style="display: none; margin-top: 10px;">
 <em>Abstract:</em>  Social movements are catalysts for crucial institutional changes. To succeed, they must coordinate members’ views (consensus building) and actions (mobilization). We study union leaders within Myanmar’s burgeoning labor movement. Union leaders are positively selected on both personality traits that enable them to influence others and ability but earn lower wages. In group discussions about workers' views on an upcoming national minimum wage negotiation, randomly embedded leaders build consensus around the union’s preferred policy. In an experiment that mimics individual decision-making in a collective action set-up, leaders increase mobilization through coordination. Leaders empower social movements by building consensus that encourages mobilization.
 </div>
-<br>
 
 ## Non-refereed publications
 <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241076" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
