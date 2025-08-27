@@ -15,7 +15,7 @@ permalink: /
 
         <p>I received my PhD in Economics at the London School of Economics (LSE).</p>
 
-        <p>You can learn more about my <a href="/research/">research here</a> and find my <a href="/assets/files/MinniCV_07192025.pdf" target="_blank">CV here</a>.</p>
+        <p>You can learn more about my <a href="/research/">research here</a> and find my <a href="/assets/files/MinniCV.pdf" target="_blank">CV here</a>.</p>
 
         <p>Get in touch at: <a href="mailto:virginia.minni@chicagobooth.edu">virginia.minni@chicagobooth.edu</a></p>
     </div>
