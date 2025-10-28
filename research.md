@@ -75,6 +75,10 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 2019, *IGC Working Paper* | <a href="/assets/files/Tanaka-et-al-2019-Working-paper.pdf" target="_blank" rel="noopener noreferrer">[PDF]
 
 
+<a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> New Research on How the Best Managers Shape Employees’ Careers </a> <br>
+2025, *Harvard Business Review*  | <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> [Article] 
+
+
 <br>
 
 <!-- ## Selected work in progress -->
