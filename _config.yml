@@ -26,8 +26,8 @@ navigation:
     link: "/research/"
   - name: "Teaching"
     link: "/teaching/"
-  - name: "Policy"
-    link: "/policy/"
+  #- name: "Policy"
+  #  link: "/policy/"
 
 
 # Optional defaults for posts or pages
