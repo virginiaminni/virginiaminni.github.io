@@ -54,7 +54,7 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 <em>Abstract:</em>  Social movements are catalysts for crucial institutional changes. To succeed, they must coordinate members’ views (consensus building) and actions (mobilization). We study union leaders within Myanmar’s burgeoning labor movement. Union leaders are positively selected on both personality traits that enable them to influence others and ability but earn lower wages. In group discussions about workers' views on an upcoming national minimum wage negotiation, randomly embedded leaders build consensus around the union’s preferred policy. In an experiment that mimics individual decision-making in a collective action set-up, leaders increase mobilization through coordination. Leaders empower social movements by building consensus that encourages mobilization.
 </div>
 
-## Non-refereed publications
+## Other papers
 <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241076" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
 **AEA Papers & Proceedings** (May 2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
 <div id="abstract-5" style="display: none; margin-top: 10px;">
