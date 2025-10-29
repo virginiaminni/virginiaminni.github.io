@@ -56,11 +56,11 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 
 ## Other papers
 <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> New Research on How the Best Managers Shape Employees’ Careers </a> <br>
-*Harvard Business Review* (October 2025) | <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> [Article] 
+**Harvard Business Review** (October 2025) | <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> [Article] 
 
 <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> Long-term Unemployment, Volunteering and Re-envisioning the Nature of Work </a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Martina Zanella)<br>
-2025, *Nuffield Foundation Public Output*  | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [PDF] 
+2025, *Nuffield Foundation Public Output*  | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [PDF]</a>| <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [PDF]
 
 <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241076" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
 **AEA Papers & Proceedings** (May 2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
@@ -69,12 +69,12 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 </div>
 
 <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">Improving the allocation of talent by enabling Italian women to work</a> <br>
-2020, *Agenda Article (Treccani)* | <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">[Article]
+2020, **Agenda Article (Treccani)** | <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">[Article]
 
 
 <a href="https://www.theigc.org/publications/industrial-relations-and-workplace-communication-myanmar-garment-sector" target="_blank" rel="noopener noreferrer">Industrial relations and workplace communication in Myanmar garment sector</a> <br>
 (with Min Zar Ni Lin, Mari Tanaka, Hanh Nguyen, Khin Suu Thet, and Rocco Macchiavello)  
-*IGC Working Paper* (March 2019), F-53407-MYA-1 | <a href="/assets/files/Tanaka-et-al-2019-Working-paper.pdf" target="_blank" rel="noopener noreferrer">[PDF]
+**IGC Working Paper** (March 2019), F-53407-MYA-1 | <a href="/assets/files/Tanaka-et-al-2019-Working-paper.pdf" target="_blank" rel="noopener noreferrer">[PDF]
 
 
 <br>
