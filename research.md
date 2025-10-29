@@ -74,7 +74,7 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 
 <a href="https://www.theigc.org/publications/industrial-relations-and-workplace-communication-myanmar-garment-sector" target="_blank" rel="noopener noreferrer">Industrial relations and workplace communication in Myanmar garment sector</a> <br>
 (with Min Zar Ni Lin, Mari Tanaka, Hanh Nguyen, Khin Suu Thet, and Rocco Macchiavello)  
-2019, *IGC Working Paper* | <a href="/assets/files/Tanaka-et-al-2019-Working-paper.pdf" target="_blank" rel="noopener noreferrer">[PDF]
+*IGC Working Paper* (March 2019), F-53407-MYA-1 | <a href="/assets/files/Tanaka-et-al-2019-Working-paper.pdf" target="_blank" rel="noopener noreferrer">[PDF]
 
 
 <br>
