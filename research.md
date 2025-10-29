@@ -56,11 +56,11 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 
 ## Other papers
 <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> New Research on How the Best Managers Shape Employees’ Careers </a> <br>
-2025, *Harvard Business Review*  | <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> [Article] 
+*Harvard Business Review* (October 2025) | <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> [Article] 
 
 <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> Long-term Unemployment, Volunteering and Re-envisioning the Nature of Work </a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Martina Zanella)<br>
-2025, *Nuffield Foundation Public Output*  | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [Article] 
+2025, *Nuffield Foundation Public Output*  | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [PDF] 
 
 <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241076" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
 **AEA Papers & Proceedings** (May 2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
