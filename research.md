@@ -60,16 +60,16 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 
 <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> Long-term Unemployment, Volunteering and Re-envisioning the Nature of Work </a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Martina Zanella)<br>
-2025, *Nuffield Foundation Public Output*  | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [PDF]</a>| <a href="https://www.nuffieldfoundation.org/project/automation-unemployment-and-re-envisioning-the-nature-of-work" target="_blank" rel="noopener noreferrer"> [Article]
+**Nuffield Foundation Public Output** (March 2025) | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [PDF]</a> | <a href="https://www.nuffieldfoundation.org/project/automation-unemployment-and-re-envisioning-the-nature-of-work" target="_blank" rel="noopener noreferrer"> [Article]
 
 <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241076" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
-**AEA Papers & Proceedings** (May 2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a>| <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
+**AEA Papers & Proceedings** (May 2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
 <div id="abstract-5" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> How are wages set within a multinational firm? Combining cross-country data on wages and labor regulations with personnel records of a large multinational firm, I find that wage setting depends on the rank of the employee in the firm hierarchy. For managers, wages are set by the headquarters regardless of local labor market conditions. For factory workers, wages are adjusted according to country-specific wages and labor regulations. These results suggest that the multinational's internal labor market shields managers against changes in external market conditions, while the firm adapts to local labor markets for factory workers.
 </div>
 
 <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">Improving the allocation of talent by enabling Italian women to work</a> <br>
-2020, **Agenda Article (Treccani)** | <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">[Article]
+**Agenda Article (Treccani)** (January 2020) | <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">[Article]
 
 
 <a href="https://www.theigc.org/publications/industrial-relations-and-workplace-communication-myanmar-garment-sector" target="_blank" rel="noopener noreferrer">Industrial relations and workplace communication in Myanmar garment sector</a> <br>
