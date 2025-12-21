@@ -54,7 +54,7 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 <em>Abstract:</em>  Social movements are catalysts for crucial institutional changes. To succeed, they must coordinate members’ views (consensus building) and actions (mobilization). We study union leaders within Myanmar’s burgeoning labor movement. Union leaders are positively selected on both personality traits that enable them to influence others and ability but earn lower wages. In group discussions about workers' views on an upcoming national minimum wage negotiation, randomly embedded leaders build consensus around the union’s preferred policy. In an experiment that mimics individual decision-making in a collective action set-up, leaders increase mobilization through coordination. Leaders empower social movements by building consensus that encourages mobilization.
 </div>
 
-## Other papers
+## Other publications
 <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> New Research on How the Best Managers Shape Employees’ Careers </a> <br>
 **Harvard Business Review** (October 2025) | <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> [Article] 
 
