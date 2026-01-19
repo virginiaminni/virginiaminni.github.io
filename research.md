@@ -47,8 +47,8 @@ November 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target
 
 <a href="#" target="_blank" rel="noopener noreferrer">Reorganizing Work Inside the Firm: Task Change After Technology Adoption</a> <br>
 (with Eleonora Brandimarti, Raffaella Sadun, and Jorge Tamayo)  <br>
-January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="#" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
-<div id="abstract-6" style="display: none; margin-top: 10px;">
+January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-7" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="#" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
+<div id="abstract-7" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> We study how an incumbent workforce adapts to technological change using panel data at the worker-task level from a Latin American bank with roughly 450 branches and 10,000 workers. We exploit two sequential interventions that separately shift production technology and organizational design, without displacing labor: the staggered rollout of a mobile banking app that automates routine transactions, and a subsequent redefinition of roles and performance criteria that prioritizes complex tasks such as SME lending. While automation creates substantial productive capacity—raising output per worker by roughly 20 percent—it does not, on its own, lead to task upgrading. Workers continue to concentrate on routine tasks, rather than shifting toward high-value complex tasks. Task reallocation occurs only after the firm explicitly reallocates priorities. Even then, adjustment is markedly slower among high-tenure workers, consistent with firm-specific human capital generating inertia in task change. High-productivity managers complement adaptation, but unevenly: they accelerate upgrading primarily among low-tenure workers, amplifying inequality within teams.
 </div>
 
