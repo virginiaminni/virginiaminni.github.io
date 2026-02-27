@@ -8,6 +8,20 @@ permalink: /research/
 
 ## Working papers
 
+<a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">Managers and the Cultural Transmission of Gender Norms</a> <br>
+(with Kieu-Trang Nguyen, Heather Sarsons, and Carla Srebot)  <br>
+January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
+<div id="abstract-6" style="display: none; margin-top: 10px;">
+<em>Abstract:</em> This paper studies how managers’ gender attitudes shape workplace culture and gender inequality. Using data from a multinational firm operating in over 100 countries, we leverage cross-country manager rotations to identify the effects of male managers’ gender attitudes on gender pay gaps within a team. Managers from countries with one standard deviation more progressive gender attitudes reduce the pay gap by 5 percentage points (18%), largely through higher promotion rates for women. These effects persist after managers rotate out and are strongest in more conservative countries. Managers with progressive attitudes also influence the local office culture, as local managers who interact with but are not under the purview of the foreign manager begin to have smaller pay gaps in their teams. Our evidence points to individual managers as critical in shaping corporate culture.
+</div>
+
+<a href="#" target="_blank" rel="noopener noreferrer">Reorganizing Work Inside the Firm: Task Change After Technology Adoption</a> <br>
+(with Eleonora Brandimarti, Raffaella Sadun, and Jorge Tamayo)  <br>
+January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-7" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="#" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
+<div id="abstract-7" style="display: none; margin-top: 10px;">
+<em>Abstract:</em> We study how an incumbent workforce adapts to technological change using panel data at the worker-task level from a Latin American bank with roughly 450 branches and 10,000 workers. We exploit two sequential interventions that separately shift production technology and organizational design, without displacing labor: the staggered rollout of a mobile banking app that automates routine transactions, and a subsequent redefinition of roles and performance criteria that prioritizes complex tasks such as SME lending. While automation creates substantial productive capacity—raising output per worker by roughly 20 percent—it does not, on its own, lead to task upgrading. Workers continue to concentrate on routine tasks, rather than shifting toward high-value complex tasks. Task reallocation occurs only after the firm explicitly reallocates priorities. Even then, adjustment is markedly slower among high-tenure workers, consistent with firm-specific human capital generating inertia in task change. High-productivity managers complement adaptation, but unevenly: they accelerate upgrading primarily among low-tenure workers, amplifying inequality within teams.
+</div>
+
 <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">Meaning at Work</a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Luigi Zingales)  
 May 2025, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-4" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/ABMZ MeaningatWork2025.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
@@ -26,20 +40,6 @@ April 2025, *Working Paper* |<a href="#" class="toggle-abstract" data-target="ab
 Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506afa" target="_blank" rel="noopener noreferrer">Financial Times</a>, <a href="https://www.economist.com/britain/2022/06/30/british-child-care-is-expensive" target="_blank" rel="noopener noreferrer">The Economist</a>, <a href="https://www.thetimes.com/business-money/economics/article/a-man-cant-fix-childcare-only-a-woman-can-n7lj9nn0p?region=global" target="_blank" rel="noopener noreferrer">The Times</a>,  <a href="https://marginalrevolution.com/marginalrevolution/2023/05/gender-roles-and-the-misallocation-of-labour-across-countries.html" target="_blank" rel="noopener noreferrer">Marginal Revolution</a> <br>
 <div id="abstract-3" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> We ask whether the gendered division of work affects firm productivity across the spectrum of economic development. Personnel records of over 100,000 individuals hired by a global firm that operates in 100 countries reveal that female employee performance is higher where women are underrepresented in the candidate pool.  This implies productivity gains from hiring more women, but realizing them would require increasing women's pay relative to men. The findings highlight how unequal gender norms in local labor markets create an equity-efficiency trade-off inside the firm, particularly in low-income countries with conservative gender norms.
-</div>
-
-<a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">Managers and the Cultural Transmission of Gender Norms</a> <br>
-(with Kieu-Trang Nguyen, Heather Sarsons, and Carla Srebot)  <br>
-January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
-<div id="abstract-6" style="display: none; margin-top: 10px;">
-<em>Abstract:</em> This paper studies how managers’ gender attitudes shape workplace culture and gender inequality. Using data from a multinational firm operating in over 100 countries, we leverage cross-country manager rotations to identify the effects of male managers’ gender attitudes on gender pay gaps within a team. Managers from countries with one standard deviation more progressive gender attitudes reduce the pay gap by 5 percentage points (18%), largely through higher promotion rates for women. These effects persist after managers rotate out and are strongest in more conservative countries. Managers with progressive attitudes also influence the local office culture, as local managers who interact with but are not under the purview of the foreign manager begin to have smaller pay gaps in their teams. Our evidence points to individual managers as critical in shaping corporate culture.
-</div>
-
-<a href="#" target="_blank" rel="noopener noreferrer">Reorganizing Work Inside the Firm: Task Change After Technology Adoption</a> <br>
-(with Eleonora Brandimarti, Raffaella Sadun, and Jorge Tamayo)  <br>
-January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-7" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="#" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
-<div id="abstract-7" style="display: none; margin-top: 10px;">
-<em>Abstract:</em> We study how an incumbent workforce adapts to technological change using panel data at the worker-task level from a Latin American bank with roughly 450 branches and 10,000 workers. We exploit two sequential interventions that separately shift production technology and organizational design, without displacing labor: the staggered rollout of a mobile banking app that automates routine transactions, and a subsequent redefinition of roles and performance criteria that prioritizes complex tasks such as SME lending. While automation creates substantial productive capacity—raising output per worker by roughly 20 percent—it does not, on its own, lead to task upgrading. Workers continue to concentrate on routine tasks, rather than shifting toward high-value complex tasks. Task reallocation occurs only after the firm explicitly reallocates priorities. Even then, adjustment is markedly slower among high-tenure workers, consistent with firm-specific human capital generating inertia in task change. High-productivity managers complement adaptation, but unevenly: they accelerate upgrading primarily among low-tenure workers, amplifying inequality within teams.
 </div>
 
 
