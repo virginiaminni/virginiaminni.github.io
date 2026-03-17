@@ -13,7 +13,9 @@ permalink: /research/
 January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
 <div id="abstract-6" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> This paper studies how managers’ gender attitudes shape workplace culture and gender inequality. Using data from a multinational firm operating in over 100 countries, we leverage cross-country manager rotations to identify the effects of male managers’ gender attitudes on gender pay gaps within a team. Managers from countries with one standard deviation more progressive gender attitudes reduce the pay gap by 5 percentage points (18%), largely through higher promotion rates for women. These effects persist after managers rotate out and are strongest in more conservative countries. Managers with progressive attitudes also influence the local office culture, as local managers who interact with but are not under the purview of the foreign manager begin to have smaller pay gaps in their teams. Our evidence points to individual managers as critical in shaping corporate culture.
-</div>
+</div> 
+Coverage: 
+<a href="https://bfi.uchicago.edu/insights/managers-and-the-cultural-transmission-of-gender-norms/" target="_blank" rel="noopener noreferrer">BFI Research Brief</a>
 
 <a href="#" target="_blank" rel="noopener noreferrer">Reorganizing Work Inside the Firm: Task Change After Technology Adoption</a> <br>
 (with Eleonora Brandimarti, Raffaella Sadun, and Jorge Tamayo)  <br>
