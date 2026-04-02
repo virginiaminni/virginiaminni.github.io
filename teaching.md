@@ -19,7 +19,6 @@ Instructor: Gharad Bryan
 *Graduate Teaching Assistant*  <br>
 Instructor: Rocco Macchiavello
 
-## University of Chicago Booth School of Business
 
 
 ## Teaching awards
