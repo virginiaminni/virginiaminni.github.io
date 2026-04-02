@@ -6,20 +6,9 @@ permalink: /teaching/
 
 # Teaching
 ## Courses
-<a href="https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/EC/2023_EC307.htm" target="_blank">Development Economics (EC307)</a>, LSE - 2019-2020 <br>
-*Graduate Teaching Assistant* <br>
-Instructors: Oriana Bandiera and Robin Burgess
-
-<a href="https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/economics/ec307" target="_blank">Development Economics (Summer School, EC307)</a>, LSE - 2019<br>
-*Graduate Teaching Assistant*  <br>
-Instructor: Gharad Bryan
-
-
-<a href="https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/business-and-management/mg206" target="_blank">Business Strategy in International Markets (Summer School, MG206)</a>, LSE - 2019<br>
-*Graduate Teaching Assistant*  <br>
-Instructor: Rocco Macchiavello
 
 ### <span style="color: #990000; font-size: 24px; font-weight: normal; font-family: 'Spectral', serif;">University of Chicago Booth School of Business</span>
+PhD Topics in Labor Economics — Spring 2026 <br>
 
 ## Teaching awards
 
