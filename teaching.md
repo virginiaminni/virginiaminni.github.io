@@ -8,7 +8,12 @@ permalink: /teaching/
 ## Courses
 
 ### <span style="color: #990000; font-size: 24px; font-weight: normal; font-family: 'Spectral', serif;">University of Chicago Booth School of Business</span>
-PhD Topics in Labor Economics — Spring 2026 <br>
+<ul>
+  <li>PhD Topics in Labor Economics — Spring 2026</li>
+</ul>
+
+### <span style="color: #990000; font-size: 24px; font-weight: normal; font-family: 'Spectral', serif;">Other</span>
+
 
 ## Teaching awards
 
