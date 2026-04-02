@@ -13,7 +13,7 @@ permalink: /teaching/
 
 ### <span style="color: #990000; font-size: 24px; font-weight: normal; font-family: 'Spectral', serif;">Other</span>
 <ul>
-  <li>Private Enterprises, Productivity, and Economic Development, <em>PEDL & STEG</em> (PhD): Spring 2026</li>
+  <li><a href="https://grp.cepr.org/events/session-14-francis-annan-virginia-minni-and-tommaso-porzio-steg-pedl-virtual-course-private" target="_blank">Private Enterprises, Productivity, and Economic Development, <em>PEDL & STEG</em></a> (PhD): Spring 2026</li>
   <li>Field Experiments, <em>Harvard University</em> (PhD, Guest Lecturer): Spring 2025</li>
   <li>Development Economics, <em>University of Chicago</em> (PhD, Guest Lecturer): Fall 2024, Winter 2026</li>
   <li>Political Economy, <em>London Business School</em> (PhD, Guest Lecturer): Spring 2023</li>
