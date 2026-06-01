@@ -67,7 +67,8 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 ## Other publications
 <a href="https://www.povertyactionlab.org/blog/3-24-26/why-people-matter-high-growth-entrepreneurship-africa" target="_blank" rel="noopener noreferrer"> Why people matter in high-growth entrepreneurship in Africa </a> <br>
 (with Vittorio Bassi, Amanda Awadey, Ama Baafra Abeberese, and Anne Kersting)<br>
-**J-PAL** (March 2026) | <a href="https://www.povertyactionlab.org/blog/3-24-26/why-people-matter-high-growth-entrepreneurship-africa" target="_blank" rel="noopener noreferrer"> [Article] 
+**J-PAL** (March 2026) | <a href="https://www.povertyactionlab.org/blog/3-24-26/why-people-matter-high-growth-entrepreneurship-africa" target="_blank" rel="noopener noreferrer"> [Article]</a><br>
+Coverage: <a href="https://voxdev.org/topic/firms/why-people-matter-high-growth-entrepreneurship-africa" target="_blank" rel="noopener noreferrer">VoxDev Column</a>
 
 <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> New Research on How the Best Managers Shape Employees’ Careers </a> <br>
 **Harvard Business Review** (October 2025) | <a href="https://hbr.org/2025/10/new-research-on-how-the-best-managers-shape-employees-careers" target="_blank" rel="noopener noreferrer"> [Article] 
