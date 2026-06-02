@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Working papers
 
-<a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">Managers and the Cultural Transmission of Gender Norms</a> <br>
+<a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">Managers and the Transmission of Gender Norms and Practices</a> <br>
 (with Kieu-Trang Nguyen, Heather Sarsons, and Carla Srebot)  <br>
 January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
 <div id="abstract-6" style="display: none; margin-top: 10px;">
