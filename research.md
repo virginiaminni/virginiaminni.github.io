@@ -10,7 +10,7 @@ permalink: /research/
 
 <a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">Managers and the Transmission of Gender Norms and Practices</a> <br>
 (with Kieu-Trang Nguyen, Heather Sarsons, and Carla Srebot)  <br>
-January 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
+June 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-6" style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/MNSS ManagerNorms.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
 <div id="abstract-6" style="display: none; margin-top: 10px;">
 <em>Abstract:</em> This paper studies how managers’ gender attitudes shape workplace practices and culture. Using data from a multinational firm operating in over 100 countries, we leverage cross-country manager rotations to identify the effects of male managers’ gender attitudes on gender pay gaps within a team. Managers from countries with one standard deviation more progressive gender attitudes reduce the pay gap by 5 percentage points (18% of the baseline gap), half of which is driven by women being promoted. These results are strongest in conservative countries. They persist even after managers rotate out in part because they influence the practices and attitudes of local managers, including peers who interact with but are not under the direct purview of foreign managers.
 </div> 
