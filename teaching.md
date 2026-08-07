@@ -9,7 +9,7 @@ permalink: /teaching/
 ### <span style="color: #990000; font-size: 24px; font-weight: normal; font-family: 'Spectral', serif;">University of Chicago Booth School of Business</span>
 <ul>
   <li><a href="https://apps.chicagobooth.edu/PublicApps/CourseSearch/CourseDetail/FacultyCourseDescription?academicYear=2025&courseNumber=33918&facultyId=1390&_gl=1*1crz69l*_gcl_au*ODUyMjc1OTM0LjE3NzM1MTg2Njc.*_ga*MjA4MjU5MDM5My4xNzczNTE4NjY3*_ga_PDRJWHFTEV*czE3NzUxNDQxODUkbzExJGcxJHQxNzc1MTQ0MjE5JGoyNiRsMCRoMA.." target="_blank">Topics in Labor Economics (PhD)</a>: 2026 - </li>
-  <li><a href="https://apps.chicagobooth.edu/PublicApps/CourseSearch/CourseDetail/FacultyCourseDescription?academicYear=2026&courseNumber=33032" target="_blank">Managing the Workplace (MBA)</a>: 2027 - </li>
+  <li><a href="https://apps.chicagobooth.edu/PublicApps/CourseSearch/CourseDetail/FacultyCourseDescription?academicYear=2026&courseNumber=33832&facultyId=9977&_gl=1*13yvqxn*_gcl_au*NjU1MDc3MzY5LjE3ODYwNjQzNzI.*_ga*OTUxNzg0MjcxLjE3NTI1MTkyODM.*_ga_PDRJWHFTEV*czE3ODYwNjQzNzEkbzUkZzEkdDE3ODYwNjQ1NjEkajYwJGwwJGgw">Organizations and Incentives (EMBA)</a>: 2027 - </li>
 </ul>
 
 
