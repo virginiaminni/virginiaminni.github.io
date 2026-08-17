@@ -64,6 +64,12 @@ Coverage:  <a href="https://voxdev.org/topic/institutions-political-economy/who-
 <em>Abstract:</em>  Social movements are catalysts for crucial institutional changes. To succeed, they must coordinate members’ views (consensus building) and actions (mobilization). We study union leaders within Myanmar’s burgeoning labor movement. Union leaders are positively selected on both personality traits that enable them to influence others and ability but earn lower wages. In group discussions about workers' views on an upcoming national minimum wage negotiation, randomly embedded leaders build consensus around the union’s preferred policy. In an experiment that mimics individual decision-making in a collective action set-up, leaders increase mobilization through coordination. Leaders empower social movements by building consensus that encourages mobilization.
 </div>
 
+<a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241076" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
+**AEA Papers & Proceedings** (May 2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
+<div id="abstract-5" style="display: none; margin-top: 10px;">
+<em>Abstract:</em> How are wages set within a multinational firm? Combining cross-country data on wages and labor regulations with personnel records of a large multinational firm, I find that wage setting depends on the rank of the employee in the firm hierarchy. For managers, wages are set by the headquarters regardless of local labor market conditions. For factory workers, wages are adjusted according to country-specific wages and labor regulations. These results suggest that the multinational’s internal labor market shields managers from changes in external market conditions, while the firm adapts to local labor markets for factory workers.
+</div>
+
 ## Other publications
 <a href="https://www.povertyactionlab.org/blog/3-24-26/why-people-matter-high-growth-entrepreneurship-africa" target="_blank" rel="noopener noreferrer"> Why people matter in high-growth entrepreneurship in Africa </a> <br>
 (with Vittorio Bassi, Amanda Awadey, Ama Baafra Abeberese, and Anne Kersting)<br>
@@ -76,12 +82,6 @@ Coverage: <a href="https://voxdev.org/topic/firms/why-people-matter-high-growth-
 <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> Long-term Unemployment, Volunteering and Re-envisioning the Nature of Work </a> <br>
 (with Nava Ashraf, Oriana Bandiera, and Martina Zanella)<br>
 **Nuffield Foundation Public Output** (May 2025) | <a href="/assets/files/ABMZ2025.pdf" target="_blank" rel="noopener noreferrer"> [PDF]</a> | <a href="https://www.nuffieldfoundation.org/project/automation-unemployment-and-re-envisioning-the-nature-of-work" target="_blank" rel="noopener noreferrer"> [Article]
-
-<a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241076" target="_blank" rel="noopener noreferrer">Global Managers, Local Workers: Wage Setting Inside a Multinational Firm</a> <br>
-**AEA Papers & Proceedings** (May 2024), 114: 586-91 | <a href="#" class="toggle-abstract" data-target="abstract-5"  style="text-decoration: underline; color: #990000;">[Abstract]</a> | <a href="/assets/files/Minni Global Managers P&P.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a> <br>
-<div id="abstract-5" style="display: none; margin-top: 10px;">
-<em>Abstract:</em> How are wages set within a multinational firm? Combining cross-country data on wages and labor regulations with personnel records of a large multinational firm, I find that wage setting depends on the rank of the employee in the firm hierarchy. For managers, wages are set by the headquarters regardless of local labor market conditions. For factory workers, wages are adjusted according to country-specific wages and labor regulations. These results suggest that the multinational's internal labor market shields managers against changes in external market conditions, while the firm adapts to local labor markets for factory workers.
-</div>
 
 <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">Improving the allocation of talent by enabling Italian women to work</a> <br>
 **Agenda (Treccani) Article** (January 2020) | <a href="https://www.treccani.it/magazine/agenda/articoli/economia-e-innovazione/gender_gap.html" target="_blank" rel="noopener noreferrer">[Article]
