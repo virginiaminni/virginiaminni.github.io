@@ -45,7 +45,13 @@ Coverage:  <a href="https://www.ft.com/content/83751e6c-544c-4a16-851a-e05f18506
 <em>Abstract:</em> We ask whether the gendered division of work affects firm productivity across the spectrum of economic development. Personnel records of over 100,000 individuals hired by a global firm that operates in 100 countries reveal that female employee performance is higher where women are underrepresented in the candidate pool.  This implies productivity gains from hiring more women, but realizing them would require increasing women's pay relative to men. The findings highlight how unequal gender norms in local labor markets create an equity-efficiency trade-off inside the firm, particularly in low-income countries with conservative gender norms.
 </div>
 
-
+<a rel="noopener noreferrer">Labor Unions and Pro-Democracy Resistance</a> <br>
+(with Laura Boudreau, Rocco Macchiavello, Mari Tanaka, and Francesca Trento) <br>
+November 2026, *Working Paper* | <a href="#" class="toggle-abstract" data-target="abstract-7" style="text-decoration: underline; color: #990000;">[Abstract]</a> <br>
+<div id="abstract-7" style="display: none; margin-top: 10px;">
+<em>Abstract:</em> 
+How do civil-society organizations shape democratic resilience? We study whether and how labor unions contribute to pro-democracy resistance in the context of Myanmar’s 2021 coup. The two largest union federations’ Facebook communications shifted from workplace concerns to political resistance and grew more confrontational after the coup. Combining a pre-coup survey of 1,104 garment workers with political-prisoner records and township-level data on unions, protests, and armed conflict, we find that townships with higher pre-coup union presence saw more civilian collective action after the coup and, with a lag, more state repression. At the individual level, arrest—our main measure of costly participation— falls disproportionately on union presidents, though leadership traits explain almost none of who is arrested. Pre-coup organizational capacity instead predicts arrest, conditional on individual traits and leader quality; leader arrests also spill over to coworkers, including non-union members. Unions’ organizational infrastructure, built during ordinary workplace bargaining, can become a resource for resisting repression. 
+</div>
 
 ## Refereed publications
 
